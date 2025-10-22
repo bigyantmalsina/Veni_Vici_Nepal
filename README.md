@@ -44,7 +44,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=''Video Walkthrough width='' alt='Video Walkthrough' />
+<img src='https://youtu.be/o27_HC1CoX4?si=m0hYsv0rWn-yIfuD'Video Walkthrough width='100%' alt='Video Walkthrough' />
 
 GIF created with ...  
 adobe express for macOS
