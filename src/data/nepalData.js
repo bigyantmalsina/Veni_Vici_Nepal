@@ -1,4 +1,3 @@
-// src/data/nepalData.js
 export const NEPAL_DATA = [
   {
     id: "everest",
