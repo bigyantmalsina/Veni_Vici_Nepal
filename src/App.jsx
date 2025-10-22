@@ -1,4 +1,3 @@
-// src/App.jsx
 import React, { useState, useEffect } from "react";
 import { NEPAL_DATA } from "./data/nepalData";
 import Card from "./components/Card";
